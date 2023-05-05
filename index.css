@@ -10,7 +10,7 @@ form {
     -moz-box-shadow: 0px -1px 14px -6px rgba(0, 0, 0, 0.75);
     box-shadow: 0px -1px 14px -6px rgba(0, 0, 0, 0.75);
     border-radius: 10px;
-    width:350px;
+    width: 350px;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -48,4 +48,8 @@ textarea {
 
 input {
     padding: 10px
+}
+
+.respuesta {
+    display: none;
 }
